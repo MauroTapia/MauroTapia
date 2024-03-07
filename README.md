@@ -23,7 +23,7 @@
   ![AmazonAws](https://img.shields.io/badge/-AmazonAws-333333?style=flat&logo=amazonaws)
   
 ### Web app
-<a href="[https://tapiadev-chi.vercel.app/]"><img alt="LinkedIn" src="[https://img.shields.io/badge/Web_App-333333?style=flat&logo=&logoColor=orange]"></a>[![Web App]
+<a href="https://tapiadev-chi.vercel.app/"><img alt="WebApp" src="https://img.shields.io/badge/Web_App-333333?style=flat&logo=&logoColor=orange"></a>
 
 
 ### Contact Me
