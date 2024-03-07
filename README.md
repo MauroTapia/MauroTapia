@@ -23,7 +23,8 @@
   ![AmazonAws](https://img.shields.io/badge/-AmazonAws-333333?style=flat&logo=amazonaws)
   
 ### Web app
-<a href="https://tapiadev-chi.vercel.app/"><img alt="WebApp"></a>
+<a href="[https://tapiadev-chi.vercel.app/]"><img alt="LinkedIn" src="[https://img.shields.io/badge/Web_App-333333?style=flat&logo=&logoColor=orange]"></a>[![Web App]
+
 
 ### Contact Me
 <a href="https://www.linkedin.com/in/maurotapia/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mauro%20Tapia-blue?style=flat-square&logo=linkedin"></a>
