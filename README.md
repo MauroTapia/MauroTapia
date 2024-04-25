@@ -2,7 +2,7 @@
 <h2>Full Stack Developer Jr. 🎨</h2>
 
 ### About Me
-- I'm 22 years old and I'm from Buenos Aires, Argentina.
+- I'm 23 years old and I'm from Buenos Aires, Argentina.
 - I'm a full stack developer.
 - I'm studying a Certified Technology Developer degree from Digital House and I have also been self-taught for two years.
 
