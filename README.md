@@ -13,8 +13,8 @@
   <h3>👾 About Me</h3>
   <ul>
     <li>🎯 Problem-solver at heart: I tackle challenges first, then write code.</li>
-    <li>🌱 Currently working with <strong>Java</strong> and learning <strong>Golang</strong>.</li>
-    <li>🎓 Pursuing a Certified Technology Developer degree at Digital House with three years of dedicated study and self-taught experience./li>
+    <li>🌱 Currently working with <strong>Java</strong>.</li>
+    <li>🎓 I have completed the Certified Technology Developer degree at Digital House with three years of dedicated study and also with self-taught experience./li>
   </ul>
 </div>
 
