@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/maurotapia/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="LinkedIn" />
   </a>
-  <a href="https://tapiadev-chi.vercel.app/" target="_blank">
+  <a href="https://maurotapiadev.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-orange?style=for-the-badge&logo=google-chrome&logoColor=white" height="30" alt="Portfolio" />
   </a>
 </div>
