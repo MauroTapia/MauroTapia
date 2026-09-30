@@ -1,4 +1,4 @@
-<h2>👋 Hi, I'm Mauro - Backend Software Developer</h2>
+<h2>👋 Hi, I'm Mauro - Backend Software Engineer</h2>
 
 <div align="right">
   <a href="https://www.linkedin.com/in/maurotapia/" target="_blank">
