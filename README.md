@@ -1,5 +1,4 @@
 <h2>👋 Hi, I'm Mauro - Backend Software Engineer</h2>
-
 <div align="right">
   <a href="https://www.linkedin.com/in/maurotapia/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="LinkedIn" />
